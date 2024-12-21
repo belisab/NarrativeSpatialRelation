@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary style="050805" patternengine="substring">
+<cnode name="SpacesInAliceInWonderland" desc="">
+<cnode name="Spatial Relations" desc="">
+<cnode name="Other" desc="">
+<pnode name="back"/>
+</cnode>
+<cnode name="Prepositional" desc="">
+<pnode name="across"/>
+<pnode name="against"/>
+<pnode name="along"/>
+<pnode name="around"/>
+<pnode name="at"/>
+<pnode name="behind"/>
+<pnode name="below"/>
+<pnode name="besides"/>
+<pnode name="by"/>
+<pnode name="down"/>
+<pnode name="from"/>
+<pnode name="in"/>
+<pnode name="into"/>
+<pnode name="near"/>
+<pnode name="of"/>
+<pnode name="off"/>
+<pnode name="on"/>
+<pnode name="out"/>
+<pnode name="outside"/>
+<pnode name="over"/>
+<pnode name="through"/>
+<pnode name="to"/>
+<pnode name="towards"/>
+<pnode name="under"/>
+<pnode name="underneath"/>
+<pnode name="up"/>
+<pnode name="with"/>
+</cnode>
+<cnode name="demonstrative" desc="">
+<pnode name="here"/>
+<pnode name="there"/>
+</cnode>
+</cnode>
+</cnode>
+</dictionary>
